@@ -2,4 +2,4 @@
 
 # [CloutContracts](https://cloutcontracts.github.io)
 
-*CloutContracts Landing Page*
+*The Official CloutContracts Landing Page*
