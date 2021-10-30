@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	  	  
+
+             <!-- XML Sitemap Created For CloutContracts @ CLOUTCONTRACTS.NET -->
+
+<url>
+   <loc>https://cloutcontracts.net/</loc>
+   <lastmod>2021-10-30</lastmod>
+   <changefreq>weekly</changefreq>
+   <priority>1.0000</priority>
+</url>
+<url>
+   <loc>https://cloutcontracts.net/dapp-browser/</loc>
+   <lastmod>2021-10-30</lastmod>
+   <changefreq>weekly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>https://cloutcontracts.net/wallet/</loc>
+   <lastmod>2021-10-30</lastmod>
+   <changefreq>weekly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>https://cloutcontracts.net/CloutSwap/</loc>
+   <lastmod>2021-10-30</lastmod>
+   <changefreq>weekly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>https://cloutcontracts.net/explorer/</loc>
+   <lastmod>2021-10-30</lastmod>
+   <changefreq>weekly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>https://cloutcontracts.net/dapp-browser/about</loc>
+   <lastmod>2021-10-30</lastmod>
+   <changefreq>weekly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>https://cloutcontracts.net/dapp-browser/node/</loc>
+   <lastmod>2021-10-30</lastmod>
+   <changefreq>weekly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>https://cloutcontracts.net/dapp-browser/local-wallet/</loc>
+   <lastmod>2021-10-30</lastmod>
+   <changefreq>weekly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>https://cloutcontracts.net/dapp-browser/dapp-browser/</loc>
+   <lastmod>2021-10-30</lastmod>
+   <changefreq>weekly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>https://cloutcontracts.net/dapp-browser/cloutswap/</loc>
+   <lastmod>2021-10-30</lastmod>
+   <changefreq>weekly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>https://cloutcontracts.net/dapp-browser/block-explorer/</loc>
+   <lastmod>2021-10-30</lastmod>
+   <changefreq>weekly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>https://cloutcontracts.net/dapp-browser/categories</loc>
+   <lastmod>2021-10-30</lastmod>
+   <changefreq>weekly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>https://cloutcontracts.net/CloutSwap/#/swap</loc>
+   <lastmod>2021-10-30</lastmod>
+   <changefreq>weekly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>https://cloutcontracts.net/CloutSwap/#/pool</loc>
+   <lastmod>2021-10-30</lastmod>
+   <changefreq>weekly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>https://cloutcontracts.net/CloutSwap/#/about</loc>
+   <lastmod>2021-10-30</lastmod>
+   <changefreq>weekly</changefreq>
+   <priority>0.5120</priority>
+</url>
+             <!-- XML Sitemap Created For CloutContracts @ CLOUTCONTRACTS.NET -->
+</urlset>

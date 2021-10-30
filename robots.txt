@@ -1,0 +1,427 @@
+#****************************************************************************
+# robots.txt
+#     : Robots, spiders, and search engines use this file to determine which 
+#       content they should *not* crawl while indexing your website.
+#     : This system is called "The Standard Robots Exclusion."
+#****************************************************************************
+
+User-agent:  *
+Disallow: /cgi-bin/
+Disallow: /assets/
+
+
+
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /assets/images
+
+User-agent: Mediapartners-Google
+Allow: /
+
+User-agent: AdsBot-Google
+Allow: /
+
+User-agent: AdsBot-Google-Mobile
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+
+User-agent: Applebot
+Allow: /
+
+User-agent: msnbot-media
+Allow: /assets/images
+
+User-agent: Yandex
+Allow: /
+
+User-agent: YandexImages
+Allow: assets/images
+
+User-agent: Slurp
+Allow: /
+
+
+
+
+# Negative Robots Blocking
+
+User-agent: MJ12bot
+Disallow:/
+
+User-agent: MSIE Crawler
+Disallow: /
+
+User-agent: dotbot
+Disallow:/
+
+User-agent: ahrefsbot
+Disallow:/
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: Abonti
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: BDCbot
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: BuiltBotTough
+Disallow: /
+
+User-agent: Bullseye
+Disallow: /
+
+User-agent: BunnySlippers
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: Cegbfeieh
+Disallow: /
+
+User-agent: CheeseBot
+Disallow: /
+
+User-agent: CherryPicker
+Disallow: /
+
+User-agent: CherryPickerElite/1.0
+Disallow: /
+
+User-agent: CherryPickerSE/1.0
+Disallow: /
+
+User-agent: CopyRightCheck
+Disallow: /
+
+User-agent: Cosmos
+Disallow: /
+
+User-agent: Crescent
+Disallow: /
+
+User-agent: Crescent Internet ToolPak HTTP OLE Control v.1.0
+Disallow: /
+
+User-agent: DOC
+Disallow: /
+
+User-agent: DittoSpyder
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+User-agent: Download Ninja
+Disallow: /
+
+User-agent: EasouSpider
+Disallow: /
+
+User-agent: EmailCollector
+Disallow: /
+
+User-agent: EmailSiphon
+Disallow: /
+
+User-agent: EmailWolf
+Disallow: /
+
+User-agent: EroCrawler
+Disallow: /
+
+User-agent: Exabot
+Disallow: /
+
+User-agent: ExtractorPro
+Disallow: /
+
+User-agent: Fasterfox
+Disallow: /
+
+User-agent: FeedBooster
+Disallow: /
+
+User-agent: Foobot
+Disallow: /
+
+User-agent: Genieo
+Disallow: /
+
+User-agent: HTTrack
+Disallow: /
+
+User-agent: Harvest
+Disallow: /
+
+User-agent: Incutio
+Disallow: /
+
+User-agent: InfoNaviRobot
+Disallow: /
+
+User-agent: IstellaBot
+Disallow: /
+
+User-agent: Java/1.
+Disallow: /
+
+User-agent: JennyBot
+Disallow: /
+
+User-agent: Kenjin Spider
+Disallow: /
+
+User-agent: Keyword Density/0.9
+Disallow: /
+
+User-agent: LNSpiderguy
+Disallow: /
+
+User-agent: LexiBot
+Disallow: /
+
+User-agent: LinkScan/8.1a Unix
+Disallow: /
+
+User-agent: LinkWalker
+Disallow: /
+
+User-agent: LinkextractorPro
+Disallow: /
+
+User-agent: MIIxpc
+Disallow: /
+
+User-agent: Mata Hari
+Disallow: /
+
+User-agent: MaxPointCrawler
+Disallow: /
+
+User-agent: MegaIndex
+Disallow: /
+
+User-agent: mozilla/4
+Disallow: /
+
+User-agent: Mozilla/4.0 (compatible; BullsEye; Windows 95)
+Disallow: /
+
+User-agent: Mozilla/4.0 (compatible; MSIE 4.0; Windows 95)
+Disallow: /
+
+User-agent: Mozilla/4.0 (compatible; MSIE 4.0; Windows 98)
+Disallow: /
+
+User-agent: Mozilla/4.0 (compatible; MSIE 4.0; Windows NT)
+Disallow: /
+
+User-agent: Mozilla/4.0 (compatible; MSIE 4.0; Windows XP)
+Disallow: /
+
+User-agent: Mozilla/4.0 (compatible; MSIE 4.0; Windows 2000)
+Disallow: /
+
+User-agent: Mozilla/4.0 (compatible; MSIE 4.0; Windows ME)
+Disallow: /
+
+User-agent: mozilla/5
+Disallow: /
+
+User-agent: Microsoft URL Control
+Disallow: /
+
+User-agent: Mippin
+Disallow: /
+
+User-agent: Missigua Locator
+Disallow: /
+
+User-agent: Mister PiX
+Disallow: /
+
+User-agent: NICErsPRO
+Disallow: /
+
+User-agent: NPBot
+Disallow: /
+
+User-agent: NetAnts
+Disallow: /
+
+User-agent: Niki-Bot
+Disallow: /
+
+User-agent: Nutch
+Disallow: /
+
+User-agent: Offline Explorer
+Disallow: /
+
+User-agent: Openfind
+Disallow: /
+
+User-agent: ProPowerBot/2.14
+Disallow: /
+
+User-agent: ProWebWalker
+Disallow: /
+
+User-agent: Python-urllib
+Disallow: /
+
+User-agent: QueryN Metasearch
+Disallow: /
+
+User-agent: RMA
+Disallow: /
+
+User-agent: RepoMonkey
+Disallow: /
+
+User-agent: SISTRIX
+Disallow: /
+
+User-agent: SeznamBot
+Disallow: /
+
+User-agent: SiteSnagger
+Disallow: /
+
+User-agent: SnapPreviewBot
+Disallow: /
+
+User-agent: Sogou
+Disallow: /
+
+User-agent: SpankBot
+Disallow: /
+
+User-agent: Spinn3r
+Disallow: /
+
+User-agent: Szukacz/1.4
+Disallow: /
+
+User-agent: Teleport
+Disallow: /
+
+User-agent: Telesoft
+Disallow: /
+
+User-agent: The Intraformant
+Disallow: /
+
+User-agent: TheNomad
+Disallow: /
+
+User-agent: TightTwatBot
+Disallow: /
+
+User-agent: Titan
+Disallow: /
+
+User-agent: True_Robot
+Disallow: /
+
+User-agent: TurnitinBot
+Disallow: /
+
+User-agent: URLy Warning
+Disallow: /
+
+User-agent: UbiCrawler
+Disallow: /
+
+User-agent: UnisterBot
+Disallow: /
+
+User-agent: Unknown
+Disallow: /
+
+User-agent: VCI
+Disallow: /
+
+User-agent: WBSearchBot
+Disallow: /
+
+User-agent: WWW-Collector-E
+Disallow: /
+
+User-agent: Web Downloader/6.9
+Disallow: /
+
+User-agent: Web Image Collector
+Disallow: /
+
+User-agent: WebAuto
+Disallow: /
+
+User-agent: WebBandit
+Disallow: /
+
+User-agent: WebCopier
+Disallow: /
+
+User-agent: WebEnhancer
+Disallow: /
+
+User-agent: WebReaper
+Disallow: /
+
+User-agent: WebSauger
+Disallow: /
+
+User-agent: WebStripper
+Disallow: /
+
+User-agent: WebZip
+Disallow: /
+
+User-agent: WebmasterWorldForumBot
+Disallow: /
+
+User-agent: Website Quester
+Disallow: /
+
+User-agent: Webster Pro
+Disallow: /
+
+User-agent: Wotbox
+Disallow: /
+
+User-agent: Xenu
+Disallow: /
+
+User-agent: Zao
+Disallow: /
+
+User-agent: Zeus
+Disallow: /
+
+User-agent: ZyBORG
+Disallow: /
+
+
+
+Sitemap: https://cloutcontracts.net/sitemap.xml
+
+
