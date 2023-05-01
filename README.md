@@ -3,3 +3,5 @@
 # [CloutContracts](https://cloutcontracts.net/)
 
 *The Official CloutContracts Landing Page*
+
+**We now also own --> [https://CloutContracts.com](https://cloutcontracts.com)**
